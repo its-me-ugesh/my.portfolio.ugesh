@@ -38,11 +38,11 @@ $.fn.DeeboProgressIsInViewport = function(content) {
 				var checkBox = $(this);
 				if(checkBox.is(':checked')){
 					setTimeout(function(){
-						window.open('index.html', "_self");
+						window.open('index-Weekend.html', "_self");
 					},500);
 				}else{
 					setTimeout(function(){
-						window.open('index-light.html', "_self");
+						window.open('index-Work.html', "_self");
 					},500);
 				}
 				return false;
