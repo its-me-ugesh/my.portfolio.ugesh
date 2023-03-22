@@ -52,7 +52,7 @@ body{
 [class^="deebo_fn_"]{
 	width: 100%;
 	float: left;
-	clear: both;
+	clear: both; 
 }
 .deebo_fn_wrapper,
 .deebo_fn_wrapper *{
